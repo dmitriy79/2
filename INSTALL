@@ -1,0 +1,9 @@
+Building DoveCoin
+
+See doc/readme-qt.rst for instructions on building DoveCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DoveCoin.
+
+See doc/build-*.txt for instructions on building DoveCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DoveCoin.
